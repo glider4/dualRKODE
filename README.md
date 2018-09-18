@@ -5,8 +5,9 @@ Mathematical calculations: https://math.stackexchange.com/questions/721076/
 
 # ODEs Used in Program
 x'(t) = x(t) - y(t) + 2t - t^2 - t^3 <br />
-y'(t) = x(t) + y(t) - 4t^2 + t^3 <br />
-Where <br />
+y'(t) = x(t) + y(t) - 4t^2 + t^3 <br /> <br />
+
+With the initial conditions <br />
 x(0) = 1 <br />
 y(0) = 0 <br />
 t in [0,1]
