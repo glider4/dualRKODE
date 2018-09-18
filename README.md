@@ -16,4 +16,6 @@ t in [0,1]
 x(t) = e^t * cos(t) + t^2 <br />
 y(t) = e^t * sin(t) - t^3
 
-
+# Graphic Result
+Using currently built-in ODEs and their solutions
+![Alt text](https://github.com/mathemacode/dualRKODE/blob/master/Result.png?raw=true)
