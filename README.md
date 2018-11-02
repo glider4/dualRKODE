@@ -18,4 +18,4 @@ y(t) = e^t * sin(t) - t^3
 
 # Graphic Result
 Using currently built-in ODEs and their solutions
-![Alt text](https://github.com/mathemacode/dualRKODE/blob/master/Result.png?raw=true)
+![Dual ODE Result](https://github.com/mathemacode/dualRKODE/blob/master/Result.png?raw=true)
